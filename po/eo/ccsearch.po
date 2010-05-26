@@ -53,7 +53,7 @@ msgstr ""
 
 #: index.php:146
 msgid "(info)"
-msgstr ""
+msgstr "(info)"
 
 #: index.php:147 index.php:170
 msgid "Understand Your Search Results"
@@ -125,7 +125,7 @@ msgstr ""
 
 #: index.php:221 index.php:223
 msgid "Image"
-msgstr ""
+msgstr "Bildo"
 
 #: index.php:222
 msgid "Web Search"
