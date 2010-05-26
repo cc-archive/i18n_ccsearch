@@ -2,8 +2,7 @@
 # This file is distributed under the same license as the ccSearch package.
 # Copyright (C) 2006 Creative Commons
 # Jon Phillips <jon@rejon.org>, 2006
-#
-#, fuzzy
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: ccSearch\n"
@@ -22,11 +21,11 @@ msgstr "Help Translate"
 
 #: index.php:93
 msgid "Creative Commons"
-msgstr ""
+msgstr "Krea Komunaĵo"
 
 #: index.php:93
 msgid "Search"
-msgstr ""
+msgstr "Serĉi"
 
 #: index.php:109
 msgid "Enter search query"
@@ -38,15 +37,15 @@ msgstr ""
 
 #: index.php:133
 msgid "ccSearch"
-msgstr ""
+msgstr "ccSerĉo"
 
 #: index.php:135
 msgid "by <a href=\"http://creativecommons.org/\">Creative Commons</a>"
-msgstr ""
+msgstr "de la <a href=\"http://creativecommons.org/\">Krea Komunaĵo</a>"
 
 #: index.php:141
 msgid "Go"
-msgstr ""
+msgstr "Iri"
 
 #: index.php:144
 msgid "Understand your search results"
@@ -62,11 +61,11 @@ msgstr ""
 
 #: index.php:154
 msgid "I want something that I can..."
-msgstr ""
+msgstr "Mi volas ion kion mi rajtas…"
 
 #: index.php:157
 msgid "use for <em>commercial purposes</em>"
-msgstr ""
+msgstr "uzi por <em>komercaj celoj</em>"
 
 #: index.php:161
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
@@ -74,21 +73,14 @@ msgstr ""
 
 #: index.php:172
 msgid ""
-"<em>You should always verify that the work you are re-using has a Creative "
-"Commmons license attached to it</em>.  Search.creativecommons.org offers "
-"convenient access to search services provided by other independent "
-"organizations. Selecting\n"
+"<em>You should always verify that the work you are re-using has a Creative Commmons license attached to it</em>.  Search.creativecommons.org offers convenient access to search services provided by other independent organizations. Selecting\n"
 "different search options within the result list&mdash;particularly Image\n"
 "search for Google and Yahoo&mdash;may lead to the inclusion of results\n"
-"which are not Creative Commons licensed.  <a href=\"http://wiki."
-"creativecommons.org/CcSearch\">Learn more &raquo</a>."
+"which are not Creative Commons licensed.  <a href=\"http://wiki.creativecommons.org/CcSearch\">Learn more &raquo</a>."
 msgstr ""
 
 #: index.php:177
-msgid ""
-"<em>Can't find what you're looking for?</em>  This search tool is not "
-"exhaustive&mdash;there are plenty more <a href=\"http://wiki.creativecommons."
-"org/Content_Curators\">Creative Commons Content Directories &raquo</a>"
+msgid "<em>Can't find what you're looking for?</em>  This search tool is not exhaustive&mdash;there are plenty more <a href=\"http://wiki.creativecommons.org/Content_Curators\">Creative Commons Content Directories &raquo</a>"
 msgstr ""
 
 #: index.php:186
@@ -97,11 +89,11 @@ msgstr ""
 
 #: index.php:192
 msgid "Contact"
-msgstr ""
+msgstr "Kontakto"
 
 #: index.php:196
 msgid "Support CC"
-msgstr ""
+msgstr "Subteni CC"
 
 #: index.php:200
 msgid "Policies"
@@ -216,17 +208,7 @@ msgid "Enter a Search Query Above To Get Started"
 msgstr ""
 
 #: intro.php:133
-msgid ""
-"Please note that search.creativecommons.org is <em>not a search engine</em>, "
-"but rather offers convenient access to search services provided by other "
-"independent organizations. CC has no control over the results that are "
-"returned. <em>Do not assume that the results displayed in this search portal "
-"are under a CC license</em>. You should always verify that the work is "
-"actually under a CC license by following the link. Since there is no "
-"registration to use a CC license, CC has no way to determine what has and "
-"hasn't been placed under the terms of a CC license. If you are in doubt you "
-"should contact the copyright holder directly, or try to contact the site "
-"where you found the content."
+msgid "Please note that search.creativecommons.org is <em>not a search engine</em>, but rather offers convenient access to search services provided by other independent organizations. CC has no control over the results that are returned. <em>Do not assume that the results displayed in this search portal are under a CC license</em>. You should always verify that the work is actually under a CC license by following the link. Since there is no registration to use a CC license, CC has no way to determine what has and hasn't been placed under the terms of a CC license. If you are in doubt you should contact the copyright holder directly, or try to contact the site where you found the content."
 msgstr ""
 
 #: intro.php:136
@@ -234,17 +216,11 @@ msgid "About Creative Commons"
 msgstr ""
 
 #: intro.php:140
-msgid ""
-"Creative Commons is a <em>nonprofit</em> corporation dedicated to making it "
-"easier for people to share and build upon the work of others, consistent "
-"with the rules of copyright."
+msgid "Creative Commons is a <em>nonprofit</em> corporation dedicated to making it easier for people to share and build upon the work of others, consistent with the rules of copyright."
 msgstr ""
 
 #: intro.php:143
-msgid ""
-"We provide <em>free</em> licenses and other legal tools to mark creative "
-"work with the freedom the creator wants it to carry, so others can share, "
-"remix, use commercially, or any combination thereof."
+msgid "We provide <em>free</em> licenses and other legal tools to mark creative work with the freedom the creator wants it to carry, so others can share, remix, use commercially, or any combination thereof."
 msgstr ""
 
 #: cc-language-ui.php:179
