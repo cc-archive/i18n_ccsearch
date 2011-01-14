@@ -1,6 +1,5 @@
 # Copyright (C) 2011 Creative Commons
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ccSearch\n"
@@ -16,10 +15,6 @@ msgstr ""
 
 #: index.php:32
 msgid "Enter your search query"
-msgstr ""
-
-#: index.php:34
-msgid "Search"
 msgstr ""
 
 #: index.php:39
@@ -76,10 +71,6 @@ msgid ""
 "where you found the content."
 msgstr ""
 
-#: index.php:118
-msgid "Browser Support"
-msgstr ""
-
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
@@ -91,10 +82,6 @@ msgid ""
 "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search"
 "\"><strong>Learn how</strong></a> to switch to or from CC Search in your "
 "Firefox search bar."
-msgstr ""
-
-#: index.php:128
-msgid "Translations"
 msgstr ""
 
 #: index.php:149
