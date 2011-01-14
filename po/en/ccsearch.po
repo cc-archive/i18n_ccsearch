@@ -94,13 +94,12 @@ msgid ""
 msgstr ""
 
 #: index.php:128
-#, fuzzy
 msgid "Translations"
-msgstr "Help Translate"
+msgstr ""
 
 #: index.php:149
 msgid "Help Translate"
-msgstr "Help Translate"
+msgstr ""
 
 #: index.php:151
 msgid "Contact"
