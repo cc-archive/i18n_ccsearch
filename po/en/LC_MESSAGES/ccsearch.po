@@ -13,6 +13,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: index.php:29
+msgid "Find content you can share, use and remix"
+msgstr ""
+
 #: index.php:32
 msgid "Enter your search query"
 msgstr ""
