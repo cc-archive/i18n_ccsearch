@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-01-24 21:48+0000\n"
-"Last-Translator: boobaloo <koptev.oleg@gmail.com>\n"
+"PO-Revision-Date: 2011-02-18 21:28+0000\n"
+"Last-Translator: TarzanASG <e-maile-mail@mail.ru>\n"
 "Language-Team: Russian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,11 +16,13 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Найдите произведения, которые вы сможете распространять, использовать и изменять"
+msgstr ""
+"Найдите контент, который вы сможете распространять, использовать и "
+"изменять"
 
 #: index.php:32
 msgid "Enter your search query"
-msgstr "Введите поисковый запрос"
+msgstr "Введите ваш поисковый запрос"
 
 #: index.php:39
 msgid "I want something that I can..."
@@ -32,7 +34,7 @@ msgstr "использовать в <em>коммерческих целях</em>
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr "<em>изменять</em>, <em>адаптировать</em> или <em>использовать как основу</em>"
+msgstr "<em>изменять</em>, <em>адаптировать</em> или <em>брать за основу</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -63,16 +65,50 @@ msgid "What is this?"
 msgstr "Что это?"
 
 #: index.php:113
-msgid "Please note that search.creativecommons.org is <em>not a search engine</em>, but rather offers convenient access to search services provided by other independent organizations. CC has no control over the results that are returned. <em>Do not assume that the results displayed in this search portal are under a CC license</em>. You should always verify that the work is actually under a CC license by following the link. Since there is no registration to use a CC license, CC has no way to determine what has and hasn't been placed under the terms of a CC license. If you are in doubt you should contact the copyright holder directly, or try to contact the site where you found the content."
-msgstr "Пожалуйста, помните, что search.creativecommons.org &mdash; <em>не поисковая машина</em>, а точка удобного доступа к поисковым службам других независимых организаций. Creative Commons не контролирует результаты поиска. <em>Не полагайтесь на то, что результаты поиска, отображаемые на этом поисковом портале, попадают под лицензию CC</em>. Всегда проверяйте, проходя по ссылке, в самом ли деле работа распространяется под лицензией CC. Поскольку использование лицензии CC не регистрируется, CC не имеет возможности определить, что размещено под условиями лицензии CC, а что &mdash; нет. Если вы сомневаетесь, свяжитесь непосредственно с правообладателем, или с сайтом, на котором вы нашли материал."
+msgid ""
+"Please note that search.creativecommons.org is <em>not a search "
+"engine</em>, but rather offers convenient access to search services "
+"provided by other independent organizations. CC has no control over the"
+" results that are returned. <em>Do not assume that the results "
+"displayed in this search portal are under a CC license</em>. You should"
+" always verify that the work is actually under a CC license by "
+"following the link. Since there is no registration to use a CC license,"
+" CC has no way to determine what has and hasn't been placed under the "
+"terms of a CC license. If you are in doubt you should contact the "
+"copyright holder directly, or try to contact the site where you found "
+"the content."
+msgstr ""
+"Пожалуйста, помните, что search.creativecommons.org &mdash; <em>не "
+"поисковая машина</em>, а точка удобного доступа к поисковым службам "
+"других независимых организаций. Creative Commons не контролирует "
+"результаты поиска. <em>Не полагайтесь на то, что результаты поиска, "
+"отображаемые на этом поисковом портале, попадают под лицензию CC</em>."
+" Всегда проверяйте, проходя по ссылке, в самом ли деле работа "
+"распространяется под лицензией CC. Поскольку использование лицензии CC"
+" не регистрируется, CC не имеет возможности определить, что размещено "
+"под условиями лицензии CC, а что &mdash; нет. Если вы сомневаетесь, "
+"свяжитесь непосредственно с правообладателем, или с сайтом, на котором"
+" вы нашли материал."
 
 #: index.php:120
-msgid "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to your browser."
-msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Добавить модуль поиска CC Search</strong></a> в ваш браузер."
+msgid ""
+"<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
+"your browser."
+msgstr ""
+"<a href=\"#\" id=\"addOpenSearch\"><strong>Добавить модуль поиска CC "
+"Search</strong></a> в ваш браузер."
 
 #: index.php:121
-msgid "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Узнайте как</strong></a> активировать/деактивировать модуль поиска CC Search в строке поиска Firefox."
+msgid ""
+"<a "
+"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
+" how</strong></a> to switch to or from CC Search in your Firefox search"
+" bar."
+msgstr ""
+"<a "
+"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Узнайте"
+" как</strong></a> активировать/деактивировать модуль поиска CC Search "
+"в строке поиска Firefox."
 
 #: index.php:149
 msgid "Help Translate"
