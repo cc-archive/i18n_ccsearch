@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-02-18 21:28+0000\n"
+"PO-Revision-Date: 2011-02-21 12:17+0000\n"
 "Last-Translator: tomislavmedak <tom@mi2.hr>\n"
 "Language-Team: Croatian <>\n"
 "MIME-Version: 1.0\n"
@@ -17,8 +17,7 @@ msgstr ""
 #: index.php:29
 msgid "Find content you can share, use and remix"
 msgstr ""
-"Pronađite sadržaje koje možete slobodno dijeliti, koristiti i "
-"remiksirati"
+"Pronađite sadržaje koje možete slobodno dijeliti, koristiti i remiksirati"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -26,7 +25,7 @@ msgstr "Unesite upit za pretraživanje"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "Želio bih koristiti nešto što mogu..."
+msgstr "Tražim sadržaje koje mogu..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -42,23 +41,23 @@ msgstr "Pretražuj koristeći"
 
 #: index.php:53
 msgid "Video"
-msgstr "Video"
+msgstr "video"
 
 #: index.php:59 index.php:65 index.php:77 index.php:89
 msgid "Image"
-msgstr "Slika"
+msgstr "slike"
 
 #: index.php:71
 msgid "Web"
-msgstr "Web"
+msgstr "web sadržaji"
 
 #: index.php:83
 msgid "Music"
-msgstr "Glazba"
+msgstr "glazba"
 
 #: index.php:95 index.php:101
 msgid "Media"
-msgstr "Mediji"
+msgstr "medijski sadržaji"
 
 #: index.php:111
 msgid "What is this?"
@@ -66,29 +65,26 @@ msgstr "Što je ovo?"
 
 #: index.php:113
 msgid ""
-"Please note that search.creativecommons.org is <em>not a search "
-"engine</em>, but rather offers convenient access to search services "
-"provided by other independent organizations. CC has no control over the"
-" results that are returned. <em>Do not assume that the results "
-"displayed in this search portal are under a CC license</em>. You should"
-" always verify that the work is actually under a CC license by "
-"following the link. Since there is no registration to use a CC license,"
-" CC has no way to determine what has and hasn't been placed under the "
-"terms of a CC license. If you are in doubt you should contact the "
-"copyright holder directly, or try to contact the site where you found "
-"the content."
+"Please note that search.creativecommons.org is <em>not a search engine</em>,"
+" but rather offers convenient access to search services provided by other "
+"independent organizations. CC has no control over the results that are "
+"returned. <em>Do not assume that the results displayed in this search portal"
+" are under a CC license</em>. You should always verify that the work is "
+"actually under a CC license by following the link. Since there is no "
+"registration to use a CC license, CC has no way to determine what has and "
+"hasn't been placed under the terms of a CC license. If you are in doubt you "
+"should contact the copyright holder directly, or try to contact the site "
+"where you found the content."
 msgstr ""
-"Upozoravamo da search.creativecommons.org nije <em>pretraživač</em>, "
-"već nudi praktičan pristup pretraživačkim uslugama koje nude druge "
-"nezavisne organizacije. CC nema kontrolu nad povratnim rezulatima. "
-"<em> Ne računajte da su rezultati prikazani na ovom pretraživačkom "
-"portalu nužno pod CC licencom</em>. Uvijek biste trebali provjeriti da"
-" li je djelo doista pod nekom CC licencom time da otvorite link. "
-"Budući da prilikom primjene CC licence ne registriramo djela, CC nema "
-"načina da ustanovi što jest, a što nije stavljeno pod uvjete CC "
-"licence. Ako niste sigurni, onda kontaktirajte izravno nositelja prava"
-" ili pokušajte kontaktirati internetsku stranicu na kojoj ste pronašli"
-" sadržaj."
+"Upozoravamo da search.creativecommons.org nije <em>tražilica</em>, već se "
+"radi o sučelju za pristup pretraživanju koje nude druge organizacije. CC "
+"nema kontrolu nad povratnim rezulatima. <em> Ne računajte da su rezultati "
+"prikazani na ovom pretraživačkom portalu nužno pod CC licencom</em>. Uvijek "
+"provjerite otvaranjem linka radi li se doista o djelu pod CC licencom. "
+"Budući da prilikom primjene CC licence ne registriramo djela, CC nema načina"
+" da ustanovi koji sadržaji jesu, ako koji nisu dostupni pod uvjetima CC "
+"licence. Ako niste sigurni, onda kontaktirajte izravno nositelja prava ili "
+"pokušajte kontaktirati internetsku stranicu na kojoj ste pronašli sadržaj."
 
 #: index.php:120
 msgid ""
@@ -102,13 +98,12 @@ msgstr ""
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
-" how</strong></a> to switch to or from CC Search in your Firefox search"
-" bar."
+" how</strong></a> to switch to or from CC Search in your Firefox search bar."
 msgstr ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Saznajte"
-" kako</strong></a> postaviti ili maknuti CC pretraživanje u "
-"pretraživačkoj traci Firefox preglednika."
+" kako</strong></a> postaviti ili maknuti CC pretraživanje u pretraživačkoj "
+"traci Firefox preglednika."
 
 #: index.php:149
 msgid "Help Translate"
