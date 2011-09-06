@@ -1,11 +1,12 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# John Weitzmann <john@creativecommons.de>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
+"PO-Revision-Date: 2011-06-25 21:56+0000\n"
 "Last-Translator: jhweitzmann <john@creativecommons.de>\n"
 "Language-Team: German (http://www.transifex.net/projects/p/CC/team/de/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr ""
+msgstr "Finden Sie Inhalte, die geteilt, genutzt und remixt werden können."
 
 #: index.php:32
 msgid "Enter your search query"
@@ -103,6 +104,10 @@ msgid ""
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
 msgstr ""
+"<a "
+"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Lernen"
+" Sie</strong></a> wie Sie CC Search in Ihrem Firefox Search Bar an- und "
+"abschalten."
 
 #: index.php:149
 msgid "Help Translate"
@@ -131,3 +136,5 @@ msgstr "Nutzungsbedingungen"
 #: index.php:161
 msgid "Developers"
 msgstr "Entwickler"
+
+

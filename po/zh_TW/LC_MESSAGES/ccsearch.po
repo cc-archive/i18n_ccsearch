@@ -1,12 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
+#   <yhchang@gate.sinica.edu.tw>, 2011.
+# Polley Wong <polley@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
-"Last-Translator: polley <polley@gmail.com>\n"
+"PO-Revision-Date: 2011-09-02 08:33+0000\n"
+"Last-Translator: yihongchang <yhchang@gate.sinica.edu.tw>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/CC/team/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,15 +18,15 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "尋找可被散步、使用及混製的內容"
+msgstr "尋找可被散布、使用及重混的內容"
 
 #: index.php:32
 msgid "Enter your search query"
-msgstr "輸入欲搜尋的關鍵字詞"
+msgstr "輸入搜尋關鍵詞"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "我需要尋找能夠...."
+msgstr "我需要找能夠...."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -32,11 +34,11 @@ msgstr "<em>商業使用</em>的素材"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr "<em>修改</em>或<em>改编</em>的素材"
+msgstr "<em>修改</em>、<em>改作</em>的素材"
 
 #: index.php:48
 msgid "Search using"
-msgstr "使用搜尋"
+msgstr "選擇搜尋服務"
 
 #: index.php:53
 msgid "Video"
@@ -60,7 +62,7 @@ msgstr "媒體"
 
 #: index.php:111
 msgid "What is this?"
-msgstr "這是什麼東西？"
+msgstr "這是什麼？"
 
 #: index.php:113
 msgid ""
@@ -75,6 +77,8 @@ msgid ""
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
 msgstr ""
+"請注意，search.creativecommons.org "
+"<em>不是搜尋引擎</em>，而僅提供一便於使用的介面以連結至其他獨立單位的內容搜尋服務。CC對搜尋的結果沒有控制權，<em>也無法確保搜尋結果確實採用創用CC授權</em>，你必須連結至各著作的網頁，以確認該著作是否確實以創用CC授權釋出。由於採用創用CC受權無需進行註冊動作，CC因此無法確保該著作是否採用創用CC授權條款，如果你對該著作的著作權狀態有疑慮，你應該直接連絡著作權所有人，或聯絡提供該著作的網站。"
 
 #: index.php:120
 msgid ""
@@ -105,11 +109,11 @@ msgstr "捐款給創用CC"
 
 #: index.php:155
 msgid "Policies"
-msgstr "規範"
+msgstr "使用規範"
 
 #: index.php:157
 msgid "Privacy"
-msgstr "隱私權"
+msgstr "隱私權聲明"
 
 #: index.php:159
 msgid "Terms of Use"
@@ -117,4 +121,6 @@ msgstr "使用條款"
 
 #: index.php:161
 msgid "Developers"
-msgstr "程式設計人員"
+msgstr "程式發展人員"
+
+
