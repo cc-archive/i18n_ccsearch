@@ -1,5 +1,7 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# partrita <partrita@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
@@ -121,3 +123,5 @@ msgstr "이용 약관"
 #: index.php:161
 msgid "Developers"
 msgstr "개발자"
+
+
