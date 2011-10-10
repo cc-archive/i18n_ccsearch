@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-09-29 17:04+0000\n"
+"PO-Revision-Date: 2011-10-10 14:37+0000\n"
 "Last-Translator: mdulong <melanie.ddr@gmail.com>\n"
 "Language-Team: French (http://www.transifex.net/projects/p/CC/team/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr ""
 "des oeuvres sous licence CC, CC n'a aucun moyen de déterminer ce qui a et "
 "n'a pas été placés sous les termes d'une licence CC. En cas de doute, vous "
 "devriez contacter directement le titulaire des droits ou le site web où vous"
-" avez trouver l'œuvre."
+" avez trouvé l'œuvre."
 
 #: index.php:120
 msgid ""
@@ -123,7 +123,7 @@ msgstr "Faire un don à CC"
 
 #: index.php:155
 msgid "Policies"
-msgstr "Règlement"
+msgstr "Réglement"
 
 #: index.php:157
 msgid "Privacy"
