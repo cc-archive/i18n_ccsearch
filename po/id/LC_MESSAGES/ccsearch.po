@@ -1,11 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# Farras <farras.octara@gmail.com>, 2011.
+#   <farras.octara@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
+"PO-Revision-Date: 2011-10-11 15:59+0000\n"
 "Last-Translator: Farras <farras.octara@gmail.com>\n"
 "Language-Team: Indonesian (http://www.transifex.net/projects/p/CC/team/id/)\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +35,7 @@ msgstr "gunakan untuk <em>keperluan komersial<em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr ""
+msgstr "<em>ubahsuaikan</em>, <em>adaptasikan</em>, atau <em>bangun di</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -90,6 +93,10 @@ msgid ""
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
 msgstr ""
+"<a "
+"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Pelajari"
+" cara</strong></a> pindah ke atau dari CC Search di kotak pencarian Firefox "
+"Anda."
 
 #: index.php:149
 msgid "Help Translate"
@@ -118,3 +125,5 @@ msgstr "Ketentuan Penggunaan"
 #: index.php:161
 msgid "Developers"
 msgstr "Pengembang"
+
+
