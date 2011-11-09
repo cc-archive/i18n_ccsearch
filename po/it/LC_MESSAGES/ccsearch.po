@@ -1,14 +1,16 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
 #   <ironbishop@fsfe.org>, 2011.
+#   <lukefiltroman@gmail.com>, 2011.
 # Nathan Kinkade <nkinkade@creativecommons.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-06-02 06:47+0000\n"
-"Last-Translator: ironbishop <ironbishop@fsfe.org>\n"
+"PO-Revision-Date: 2011-11-09 03:11+0000\n"
+"Last-Translator: FiltroMan <lukefiltroman@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/CC/team/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +20,7 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Trova contenuti da poter condividere, usare e remixare"
+msgstr "Trova contenuti da poter condividere, usare e modificare"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -85,7 +87,7 @@ msgstr ""
 "vengono forniti. <em>Non dare per scontato che i risultati visualizzati in "
 "questo portale siano licenziati con Creative Commons</em>. Verifica sempre "
 "che l'opera sia realmente licenziata con una licenza CC seguendo il "
-"collegamento. Poichè non vi è alcuna registrazione per l'utilizzo delle "
+"collegamento. Poiché non vi è alcuna registrazione per l'utilizzo delle "
 "licenze CC, Creative Commons non ha modo di sapere quando un'opera sia o non"
 " sia licenziata con CC. Se hai dubbi in merito contatta direttamente il "
 "detentore dei diritti o cerca di contattare il sito in cui hai trovato il "
