@@ -1,15 +1,16 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
+#   <creative@cckorea.org>, 2012.
 # partrita <partrita@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
-"Last-Translator: partrita <partrita@gmail.com>\n"
-"Language-Team: Korean (http://www.transifex.net/projects/p/CC/team/ko/)\n"
+"PO-Revision-Date: 2012-03-15 08:39+0000\n"
+"Last-Translator: cckorea_staff <creative@cckorea.org>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/CC/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr ""
+msgstr "공유 가능한 컨텐츠 찾기, 사용하기, 리믹스하기"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -76,12 +77,7 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"하지만, 그 <em>검색 엔진 search.creativecommons.org는하지</em> 유의하시기 바랍니다 오히려 다른 독립적인 "
-"단체에 의해 서비스를 제공하는 검색을 제공하는 편리한 액세스를. 참조가 반환됩니다 이상의 결과가 제어할 수 없음. <em>라이선스 컨벤션"
-" 센터 아래에 결과가 표시 그러지 가정하고있는 포털 사이트에서 검색.</em> 당신은 항상 작품의 링크를 따라 컨벤션 센터 라이센스하에 "
-"실제로 있는지 확인합니다. 참조 라이센스를 이용할 수 없습니다 등록이 없으므로, 참조는 것에 참조 라이센스의 조건에 따라 배치되지 "
-"않았습니다 확인할 방법이 없습니다. 당신이 의심하는 경우, 직접 저작권 자에게 연락해야하거나 콘텐츠를 찾은 사이트를 문의하려고합니다."
+msgstr "하지만, 그 <em>검색 엔진 search.creativecommons.org는하지</em> 유의하시기 바랍니다 오히려 다른 독립적인 단체에 의해 서비스를 제공하는 검색을 제공하는 편리한 액세스를. 참조가 반환됩니다 이상의 결과가 제어할 수 없음. <em>라이선스 컨벤션 센터 아래에 결과가 표시 그러지 가정하고있는 포털 사이트에서 검색.</em> 당신은 항상 작품의 링크를 따라 컨벤션 센터 라이센스하에 실제로 있는지 확인합니다. 참조 라이센스를 이용할 수 없습니다 등록이 없으므로, 참조는 것에 참조 라이센스의 조건에 따라 배치되지 않았습니다 확인할 방법이 없습니다. 당신이 의심하는 경우, 직접 저작권 자에게 연락해야하거나 콘텐츠를 찾은 사이트를 문의하려고합니다."
 
 #: index.php:120
 msgid ""
@@ -94,7 +90,7 @@ msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>파이어폭스 검색바에서 CC 검색로 바꾸는 법</strong></a>"
 
 #: index.php:149
 msgid "Help Translate"
@@ -123,5 +119,3 @@ msgstr "이용 약관"
 #: index.php:161
 msgid "Developers"
 msgstr "개발자"
-
-
