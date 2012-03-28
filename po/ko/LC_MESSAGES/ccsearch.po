@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-03-15 08:39+0000\n"
+"PO-Revision-Date: 2012-03-28 02:48+0000\n"
 "Last-Translator: cckorea_staff <creative@cckorea.org>\n"
 "Language-Team: Korean (http://www.transifex.net/projects/p/CC/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "검색어를 입력하십시오"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "내가 할수 있는것을 원합니다..."
+msgstr "내가 할 수 있는 것은 무엇인가요?"
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -39,7 +39,7 @@ msgstr ", <em>개조, 수정 또는 빌드</em>"
 
 #: index.php:48
 msgid "Search using"
-msgstr "를 사용하여 검색"
+msgstr "을(를) 사용하여 검색"
 
 #: index.php:53
 msgid "Video"
