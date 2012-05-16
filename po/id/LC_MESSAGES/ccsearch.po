@@ -1,6 +1,7 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
+# Andika Triwidada <andika@gmail.com>, 2012.
 # Farras <farras.octara@gmail.com>, 2011.
 #   <farras.octara@gmail.com>, 2011.
 msgid ""
@@ -8,9 +9,9 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-10-11 15:59+0000\n"
-"Last-Translator: Farras <farras.octara@gmail.com>\n"
-"Language-Team: Indonesian (http://www.transifex.net/projects/p/CC/team/id/)\n"
+"PO-Revision-Date: 2012-05-16 14:38+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.net/projects/p/CC/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,26 +78,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
+msgstr "Mohon dicatat bahwa search.creativecommons.org <em>bukan mesin pencari</em>, melainkan menawarkan akses lebih mudah ke penyedia layanan pencarian oleh organisasi independen lain. CC tak memiliki kendali atas hasil yang dikembalikan. <em>Jangan beranggapan bahwa hasil yang ditampilkan dalam portal pencarian ini ada di bawah lisensi CC</em>. Anda mesti selalu memastikan bahwa karya tersebut memang benar memakai lisensi CC dengan mengikuti tautnya. Karena tidak ada pendaftaran untuk memakai suatu lisensi CC, CC tak punya cara untuk menentukan apa yang telah dan belum ditempatkan di bawah syarat dari suatu lisensi CC. Bila Anda ragu Anda mesti menghubungi pemegang hak cipta secara langsung, atau mencoba menghubungi situs dimana Anda menemukan isi tersebut."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Tambahkan CC Search</strong></a> "
-"ke peramban Anda."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Tambahkan CC Search</strong></a> ke peramban Anda."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Pelajari"
-" cara</strong></a> pindah ke atau dari CC Search di kotak pencarian Firefox "
-"Anda."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Pelajari cara</strong></a> pindah ke atau dari CC Search di kotak pencarian Firefox Anda."
 
 #: index.php:149
 msgid "Help Translate"
@@ -125,5 +120,3 @@ msgstr "Ketentuan Penggunaan"
 #: index.php:161
 msgid "Developers"
 msgstr "Pengembang"
-
-
