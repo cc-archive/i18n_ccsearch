@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-03-23 15:33+0000\n"
+"PO-Revision-Date: 2012-07-19 21:19+0000\n"
 "Last-Translator: Maarten Zeinstra <mz@kl.nl>\n"
-"Language-Team: Dutch (http://www.transifex.net/projects/p/CC/language/nl/)\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/CC/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr "Voer je zoekopdracht in"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "Ik zoek iets wat ik"
+msgstr "Ik zoek iets wat ik.."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -47,7 +47,7 @@ msgstr "Video"
 
 #: index.php:59 index.php:65 index.php:77 index.php:89
 msgid "Image"
-msgstr "Afbeeldinge"
+msgstr "Afbeeldingen"
 
 #: index.php:71
 msgid "Web"
@@ -90,7 +90,7 @@ msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Leer hoe</strong></a> je switched naar CC Search in your Firefox search bar."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Leer hoe</strong></a> je zoekt met CC Search in je Firefox search bar."
 
 #: index.php:149
 msgid "Help Translate"
@@ -106,7 +106,7 @@ msgstr "Doneer aan CC"
 
 #: index.php:155
 msgid "Policies"
-msgstr "Policies"
+msgstr "Beleid"
 
 #: index.php:157
 msgid "Privacy"
