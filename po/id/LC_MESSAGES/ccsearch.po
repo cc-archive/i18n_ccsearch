@@ -2,6 +2,7 @@
 # 
 # Translators:
 # Andika Triwidada <andika@gmail.com>, 2012.
+# CC Indonesia <>, 2012.
 # Farras <farras.octara@gmail.com>, 2011.
 #   <farras.octara@gmail.com>, 2011.
 msgid ""
@@ -9,18 +10,18 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-06-01 13:17+0000\n"
-"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
-"Language-Team: Indonesian (http://www.transifex.net/projects/p/CC/language/id/)\n"
+"PO-Revision-Date: 2012-09-17 13:35+0000\n"
+"Last-Translator: CC Indonesia <>\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/CC/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: id\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Temukan isi yang dapat Anda bagikan, pakai, dan remix"
+msgstr "Temukan isi yang dapat Anda bagikan, pakai, dan gubah"
 
 #: index.php:32
 msgid "Enter your search query"
