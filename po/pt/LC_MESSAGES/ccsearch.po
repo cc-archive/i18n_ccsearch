@@ -2,19 +2,20 @@
 # 
 # Translators:
 # Hamilton Abreu <rui.hamilton.abreu@gmail.com>, 2011.
+#   <teresaraposonobre@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-04-14 04:18+0000\n"
-"Last-Translator: HamiltonAbreu <rui.hamilton.abreu@gmail.com>\n"
-"Language-Team: Portuguese (http://www.transifex.net/projects/p/CC/team/pt/)\n"
+"PO-Revision-Date: 2012-09-24 18:41+0000\n"
+"Last-Translator: ten <teresaraposonobre@gmail.com>\n"
+"Language-Team: Portuguese (http://www.transifex.com/projects/p/CC/language/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -76,38 +77,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Note, por favor, que a search.creativecommons.org <em>não é um motor de "
-"pesquisa</em>. Pelo contrário, oferece uma forma conveniente de acesso a "
-"serviços de pesquisa disponibilizados por outras entidades independentes. A "
-"CC não tem qualquer controle sobre os resultados. <em>Não assuma que os "
-"resultados apresentados pela pesquisa neste portal foram licenciados com uma"
-" licença CC</em>. Deve verificar sempre que a obra está efectivamente "
-"licenciada com uma licença CC, seguindo o respectivo link. Dado que para "
-"utilizar uma licença CC não é necessário qualquer registo, a CC não dispõe "
-"de nenhuma forma de determinar o que foi, ou não foi, disponibilizado nos "
-"termos de uma licença CC. Se tiver qualquer dúvida a este respeito deve "
-"contactar directamente o detentor dos direitos de autor, ou tentar contactar"
-" o site onde encontrou o conteúdo."
+msgstr "Note, por favor, que a search.creativecommons.org <em>não é um motor de pesquisa</em>. Pelo contrário, oferece uma forma conveniente de acesso a serviços de pesquisa disponibilizados por outras entidades independentes. A CC não tem qualquer controle sobre os resultados. <em>Não assuma que os resultados apresentados pela pesquisa neste portal foram licenciados com uma licença CC</em>. Deve verificar sempre que o trabalho está efectivamente licenciado com uma licença CC, seguindo o respectivo link. Dado que para utilizar uma licença CC não é necessário qualquer registo, a CC não dispõe de nenhuma forma de determinar o que foi, ou não foi, disponibilizado nos termos de uma licença CC. Se tiver qualquer dúvida a este respeito deve contactar directamente o titular dos direitos de autor, ou tentar contactar o site onde encontrou o conteúdo."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Adicionar a Pesquisa "
-"CC</strong></a> ao seu browser."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Adicionar a Pesquisa CC</strong></a> ao seu browser."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Pt:O_Firefox_e_a_Pesquisa_CC\"><strong>Saiba"
-" como</strong></a> mudar de ou para a Pesquisa CC na barra de pesquisa do "
-"Firefox."
+msgstr "<a href=\"http://wiki.creativecommons.org/Pt:O_Firefox_e_a_Pesquisa_CC\"><strong>Saiba como</strong></a> mudar de ou para a Pesquisa CC na barra de pesquisa do Firefox."
 
 #: index.php:149
 msgid "Help Translate"
@@ -136,5 +119,3 @@ msgstr "Condições de Uso"
 #: index.php:161
 msgid "Developers"
 msgstr "Programadores"
-
-
