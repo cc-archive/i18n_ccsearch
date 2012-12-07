@@ -1,23 +1,26 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# Nathan Kinkade <nkinkade@creativecommons.org>, 2011.
+# oleg koptev <koptev.oleg@gmail.com>, 2011.
+# TarzanASG <e-maile-mail@mail.ru>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
+"PO-Revision-Date: 2012-12-07 04:18+0000\n"
 "Last-Translator: TarzanASG <e-maile-mail@mail.ru>\n"
-"Language-Team: Russian (http://www.transifex.net/projects/p/CC/team/ru/)\n"
+"Language-Team: Russian (http://www.transifex.com/projects/p/CC/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr ""
-"Найдите контент, который вы сможете распространять, использовать и изменять"
+msgstr "Найдите контент, который вы сможете распространять, использовать и изменять"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -37,7 +40,7 @@ msgstr "<em>изменять</em>, <em>адаптировать</em> или <em>
 
 #: index.php:48
 msgid "Search using"
-msgstr "Поиск с использованием"
+msgstr "Искать с помощью:"
 
 #: index.php:53
 msgid "Video"
@@ -45,11 +48,11 @@ msgstr "Видео"
 
 #: index.php:59 index.php:65 index.php:77 index.php:89
 msgid "Image"
-msgstr "Изображение"
+msgstr "Изображения"
 
 #: index.php:71
 msgid "Web"
-msgstr "Интернет"
+msgstr "Веб"
 
 #: index.php:83
 msgid "Music"
@@ -75,36 +78,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Пожалуйста, помните, что search.creativecommons.org &mdash; <em>не поисковая"
-" система</em>, а точка удобного доступа к поисковым службам других "
-"независимых организаций. Creative Commons не контролирует результаты поиска."
-" <em>Не полагайтесь на то, что результаты поиска, отображаемые на этом "
-"поисковом портале, попадают под лицензию CC</em>. Всегда проверяйте, проходя"
-" по ссылке, в самом ли деле произведение распространяется по лицензии CC. "
-"Поскольку использование лицензии CC не регистрируется, CC не имеет "
-"возможности определить, что размещено под условиями лицензии CC, а что "
-"&mdash; нет. Если вы сомневаетесь, свяжитесь непосредственно с "
-"правообладателем, или с сайтом, на котором вы нашли материал."
+msgstr "Пожалуйста, помните, что search.creativecommons.org &mdash; <em>не поисковая система</em>, а точка удобного доступа к поисковым службам других независимых организаций. Creative Commons не контролирует результаты поиска. <em>Не полагайтесь на то, что результаты поиска, отображаемые на этом поисковом портале, попадают под лицензию CC</em>. Всегда проверяйте, проходя по ссылке, в самом ли деле произведение распространяется по лицензии CC. Поскольку использование лицензии CC не регистрируется, CC не имеет возможности определить, что размещено под условиями лицензии CC, а что &mdash; нет. Если вы сомневаетесь, свяжитесь непосредственно с правообладателем, или с сайтом, на котором вы нашли материал."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Добавить модуль поиска CC "
-"Search</strong></a> в ваш браузер."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Добавить плагин поиска CC Search</strong></a> в ваш браузер."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Узнайте"
-" как</strong></a> активировать/деактивировать модуль поиска CC Search в "
-"строке поиска Firefox."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Узнайте как</strong></a> использовать плагин CC Search в панели поиска Firefox."
 
 #: index.php:149
 msgid "Help Translate"
@@ -116,11 +103,11 @@ msgstr "Контакты"
 
 #: index.php:153
 msgid "Donate to CC"
-msgstr "Пожертвовать"
+msgstr "Пожертвовать CC"
 
 #: index.php:155
 msgid "Policies"
-msgstr "Принципы"
+msgstr "Правила"
 
 #: index.php:157
 msgid "Privacy"
