@@ -1,40 +1,41 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
+# Besnik Bleta <besnik@programeshqip.org>, 2013.
 # Gent Thaçi <gentthaqi@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-06-10 20:57+0000\n"
-"Last-Translator: genti <gentthaqi@gmail.com>\n"
-"Language-Team: Albanian (http://www.transifex.net/projects/p/CC/team/sq/)\n"
+"PO-Revision-Date: 2013-02-05 19:19+0000\n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: Albanian (http://www.transifex.com/projects/p/CC/language/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sq\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Gjegj material që ju mund të shpërndani, përdorni dhe të ndryshoni"
+msgstr "Gjeni lëndë që mund të ndani me të tjerët, përdorni dhe të ripërzieni"
 
 #: index.php:32
 msgid "Enter your search query"
-msgstr "Shtypeni pyetjen tuaj për kërkim"
+msgstr "Jepni termat tuaj për kërkim"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "Unë dua diçka që unë mund të bëj..."
+msgstr "Dua diçka të cilën mund..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
-msgstr "përdor për <em>qëllime përfituese</em>"
+msgstr "ta përdor për <em>qëllime komerciale</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr "<em>modifiko</em>, <em>adapto</em>, ose <em>ndërto përmbi</em>"
+msgstr "<em>ta ndryshoj</em>, <em>përshtas</em>, ose <em>ta përdor si bazë</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -46,7 +47,7 @@ msgstr "Video"
 
 #: index.php:59 index.php:65 index.php:77 index.php:89
 msgid "Image"
-msgstr "Imazh"
+msgstr "Figurë"
 
 #: index.php:71
 msgid "Web"
@@ -76,52 +77,45 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
+msgstr "Ju lutemi, mbani parasysh që search.creativecommons.org <em>nuk është motor kërkimi</em>, por një rrugë e volitshme për të përdorur shërbime kërkimi të ofruar nga të tjera organizma të pavarur. CC nuk ka ndonjë kontroll mbi përfundimet që ata japin. <em>Mos e merrni si të mirëqenë që përfundimet e shfaqura në këtë portal kërkimesh gjenden nën licencë CC</em>. Gjithmonë duhet të verifikoni nëse vepra gjendet përnjëmend nën një licencë CC, duke ndjekur lidhjen. Ngaqë përdorimi i një licence CC nuk lyp regjistrim gjëkundi, CC-ja nuk ka ndonjë rrugë për të përcaktuar se çfarë është vendosur dhe çfarë jo nën kushtet e një licence CC. Nëse keni dyshime do të duhej të lidheshit drejtpërsëdrejti me zotëruesin e të drejtave të kopjimit, ose të provoni të lidheshit me site-in ku e gjetët lëndën."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Shto mynyrën e kërkimit me CC "
-"</strong></a> to your browser."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Shtoni Kërkim CC</strong></a> te shfletuesi juaj."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong> "
-"Mëso si </strong></a> të ndërroni ose prej mynyrës së kërkimit me CC në "
-"kutinë për kërkim në Firefox."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Mësoni se si</strong></a> të hyhet apo dilet nga Kërkimi CC që prej shtyllës suaj të kërkimeve te Firefox-i."
 
 #: index.php:149
 msgid "Help Translate"
-msgstr "Nidhmoni të përktheni"
+msgstr "Nidhmoni Përkthimin"
 
 #: index.php:151
 msgid "Contact"
-msgstr "Kontakti"
+msgstr "Kontakte"
 
 #: index.php:153
 msgid "Donate to CC"
-msgstr "Dhuro te CC"
+msgstr "Dhuroni për CC-në"
 
 #: index.php:155
 msgid "Policies"
-msgstr "Politikat"
+msgstr "Rregulla"
 
 #: index.php:157
 msgid "Privacy"
-msgstr ""
+msgstr "Privatësi"
 
 #: index.php:159
 msgid "Terms of Use"
-msgstr "Kushtet e përdorimit"
+msgstr "Kushte Përdorimi"
 
 #: index.php:161
 msgid "Developers"
-msgstr "Zhvilluesit"
-
-
+msgstr "Zhvillues"
