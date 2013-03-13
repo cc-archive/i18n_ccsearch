@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-03-13 16:47+0000\n"
+"PO-Revision-Date: 2013-03-13 16:59+0000\n"
 "Last-Translator: atommalac <atomtengeralattjaro@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/projects/p/CC/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -78,20 +78,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
+msgstr "A search.creativecommons.org <em>nem egy keresőmotor</em>, hanem különböző független szervezetek által nyújtott keresési szolgáltatásokhoz nyújt kényelmes hozzáférést. A CC-nek nincs befolyása a visszaadott keresési találatokra. <em>Nem garantált, hogy az itt visszaadott keresési találatok CC licenc alatt vannak</em>. Minden esetben érdemes a linket követve megbizonyosodni róla, hogy az alkotás ténylegesen egy CC licenc alatt van. Mivel a CC licencek használatához nincs szükség regisztrációra, a CC-nek nincs módja annak megállapítására, hogy mire lett alkalmazva CC licenc, és mire nem. Bizonytalan esetben javasoljuk, vedd fel a kapcsolatot közvetlenül a szerzői jog tulajdonosával, vagy a weboldal üzemeltetőjével, ahol találtad az alkotást."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Add hozzá a CC Search keresőt</strong></a> a böngésződhöz."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
+msgstr "A Firefox böngésző keresősávjában használható CC Search funkció használatáról <a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>itt olvashatsz</strong></a>."
 
 #: index.php:149
 msgid "Help Translate"
