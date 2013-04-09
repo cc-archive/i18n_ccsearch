@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-04-09 09:46+0000\n"
+"PO-Revision-Date: 2013-04-09 10:43+0000\n"
 "Last-Translator: Bogo Bogdan <cazacu.bogdan@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/CC/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr ""
+msgstr "Gaseste continut pe care-l poti imparti, utiliza sau modifica"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -27,7 +27,7 @@ msgstr "Cauta"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr ""
+msgstr "Vreau ceva care..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -35,7 +35,7 @@ msgstr "folositi pentru <em>scopuri comerciale</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr ""
+msgstr "<em>modifica</em>, <em>adapteaza</em>, sau <em>dezvolta</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -77,20 +77,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
+msgstr "Va rugam sa aveti in vedere ca search.creativecommons.org <em>nu este un motor de cautare</em>, ci mai degraba faciliteaza accesul la servicii de cautare furnizate de alte organizatii independente. CC nu are control asupra rezultatelor returnate. <em>Nu asumati ca rezultatele afisate in portalul de cautare sunt licentiate CC</em>. intotdeauna veriificati ca lucrarea este licentiata CC prin accesarea link-ului aferent lucrarii. De vreme ce nu exista inregistrari pentru a folosi o licenta CC, nu avem cum sa determinam ce a este si ce nu este licentiat. Daca aveti dubii, va rugam sa contactati persoana ce detine drepturile asupra lucrarii direct, sau site-ul unde ati gasit lucrarea."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Adauga Cautare CC </strong></a> in navigatorul tau."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Invata cum</strong></a>sa treci la sau de la cautari CC in campul de cautari din Firefox."
 
 #: index.php:149
 msgid "Help Translate"
@@ -102,7 +102,7 @@ msgstr "Contact"
 
 #: index.php:153
 msgid "Donate to CC"
-msgstr ""
+msgstr "Doneaza catre CC"
 
 #: index.php:155
 msgid "Policies"
