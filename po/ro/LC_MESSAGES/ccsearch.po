@@ -1,14 +1,15 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
+# Cazacu Bogdan <cazacu.bogdan@gmail.com>, 2013.
 # Florin Sarba <flo_loveanime_flo@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-03-18 11:39+0000\n"
-"Last-Translator: flo110 <flo_loveanime_flo@yahoo.com>\n"
+"PO-Revision-Date: 2013-04-09 09:46+0000\n"
+"Last-Translator: Bogo Bogdan <cazacu.bogdan@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/projects/p/CC/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgstr ""
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
-msgstr ""
+msgstr "folositi pentru <em>scopuri comerciale</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
