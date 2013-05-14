@@ -1,22 +1,23 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-#   <alaa@manalaa.net>, 2011.
-#   <bassel.safadi@gmail.com>, 2011.
-#   <hani.sawiress@bibalex.org>, 2012.
+# alaa <alaa@manalaa.net>, 2011
+# bassel <bassel.safadi@gmail.com>, 2011
+# haswires <hani.sawiress@bibalex.org>, 2012
+# FSouici <musique1967@yahoo.fr>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-04-04 10:23+0000\n"
-"Last-Translator: haswires <hani.sawiress@bibalex.org>\n"
-"Language-Team: Arabic (http://www.transifex.net/projects/p/CC/language/ar/)\n"
+"PO-Revision-Date: 2013-05-14 05:38+0000\n"
+"Last-Translator: FSouici <musique1967@yahoo.fr>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/CC/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ar\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -24,7 +25,7 @@ msgstr ""
 
 #: index.php:32
 msgid "Enter your search query"
-msgstr "أدخل عبارة البحث"
+msgstr "أدخل طلب  البحث"
 
 #: index.php:39
 msgid "I want something that I can..."
@@ -99,7 +100,7 @@ msgstr "Help Translate"
 
 #: index.php:151
 msgid "Contact"
-msgstr "كلم"
+msgstr "إتصل"
 
 #: index.php:153
 msgid "Donate to CC"
