@@ -1,14 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Vantharith OUM <>, 2012.
-# Vantharith Oum <vantharith.oum@gmail.com>, 2013.
+# Vantharith OUM <vantharith.oum@gmail.com>, 2012
+# Vantharith OUM <vantharith.oum@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-03-21 03:05+0000\n"
+"PO-Revision-Date: 2013-05-23 20:28+0000\n"
 "Last-Translator: Vantharith OUM <vantharith.oum@gmail.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/CC/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -77,7 +77,7 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
+msgstr "សូមកំណត់ចំណាំថា search.creativecommons.org <em> មិនមានជា search engine ទេ </em> ប៉ុន្តែវាគ្រាន់តែផ្តល់ជូននូវភាពងាយស្រួលក្នុងការប្រើប្រាស់សេវាកម្មស្វែងរករបស់អង្គភាពឯករាជ្យផ្សេងទៀត។ CC មិនមានសិទ្ធគ្រប់គ្រងលើលទ្ធផលដែលបានបង្ហាញចេញមក។ <em> សូមកំុសន្មត់ថា រាល់លទ្ធផលទាំងឡាយដែលបានបង្ហាយនៅក្នុងផតថលស្វែងរកនេះ គឺស្ថិតក្រោមអជ្ញាបណ្ណ CC ។</em> You should always verify that the work is actually under a CC license by following the link. Since there is no registration to use a CC license, CC has no way to determine what has and hasn't been placed under the terms of a CC license. If you are in doubt you should contact the copyright holder directly, or try to contact the site where you found the content."
 
 #: index.php:120
 msgid ""
@@ -118,4 +118,4 @@ msgstr "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្
 
 #: index.php:161
 msgid "Developers"
-msgstr "Developers"
+msgstr "អ្នកអភិវឌ្ឍកម្មវិធី (Developers)"
