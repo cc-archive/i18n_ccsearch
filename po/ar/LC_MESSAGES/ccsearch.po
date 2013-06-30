@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-05-14 05:38+0000\n"
+"PO-Revision-Date: 2013-06-30 12:26+0000\n"
 "Last-Translator: FSouici <musique1967@yahoo.fr>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/CC/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><stron
 
 #: index.php:149
 msgid "Help Translate"
-msgstr "Help Translate"
+msgstr "مساعدة في  الترجمة "
 
 #: index.php:151
 msgid "Contact"
