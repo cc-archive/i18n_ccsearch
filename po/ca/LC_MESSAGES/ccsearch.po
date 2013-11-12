@@ -1,22 +1,26 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# Libre El Chaval <el.libre@gmail.com>, 2011
+# ilabastida <ilabastida@ub.edu>, 2013
+# Nathan Kinkade <nkinkade@creativecommons.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-29 09:42+0000\n"
-"Last-Translator: el_libre <el.libre@gmail.com>\n"
-"Language-Team: Catalan (http://www.transifex.net/projects/p/CC/team/ca/)\n"
+"PO-Revision-Date: 2013-11-12 14:37+0000\n"
+"Last-Translator: ilabastida <ilabastida@ub.edu>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/CC/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ca\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Troba contingut que puguis compartir, usar i mesclar"
+msgstr "Trobeu contingut per compartir, usar i mesclar"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -28,12 +32,11 @@ msgstr "Vull quelcom que pugui..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
-msgstr "usar per <em>propòsits comercials</em>"
+msgstr "usar per <em>finalitats comercials</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr ""
-"<em>modificar</em>, <em>adaptar</em>, o <em>construir a partir de</em>"
+msgstr "<em>modificar</em>, <em>adaptar</em>, o <em>crear a partir de</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -61,7 +64,7 @@ msgstr "Mitjans de comunicació"
 
 #: index.php:111
 msgid "What is this?"
-msgstr "Vull quelcom que pugui..."
+msgstr "Què és això?"
 
 #: index.php:113
 msgid ""
@@ -75,37 +78,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Tingues en compte que search.creativecommons.org <em> no és un motor de "
-"cerca </em>, sinó que ofereix un còmode accés als serveis de recerca "
-"proporcionats per altres organitzacions independents. CC no té control sobre"
-" els resultats que es retornen.<em> No assumeixis que els resultats que "
-"apareixen en aquest portal de recerca estan sota una llicència CC</em>. "
-"Sempre has de verificar que el treball està en realitat sota una llicència "
-"CC, seguint l'enllaç. Com que no hi ha registre per usar una llicència CC, "
-"CC no té manera de determinar el que té i no ha estat posat sota els termes "
-"d'una llicència CC. Si tens algun dubte posa't en contacte amb el titular "
-"dels drets d'autor directament, o tractar de posar-te en contacte amb el "
-"lloc on es troba el contingut."
+msgstr "Tingueu en compte que search.creativecommons.org <em>no és un motor de cerca</em>, sinó que ofereix un còmode accés als serveis de recerca proporcionats per altres organitzacions independents. CC no té control sobre els resultats que es retornen.<em> No assumiu que els resultats que apareixen en aquest portal de recerca estan subjectes a una llicència CC</em>. Sempre heu de verificar que l'obra està en realitat subjecta a una llicència CC, seguint l'enllaç. Com que no hi ha registre per usar una llicència CC, CC no té manera de determinar el que té i no ha estat posat sota els termes d'una llicència CC. Si teniu algun dubte poseu-vos en contacte amb el titular dels drets  directament, o tracteu de posar-vos en contacte amb el lloc on es troba el contingut."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Afegeix la Cerca "
-"CC</strong></a>al teu navegador."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Afegiu el Cercador CC</strong></a> al teu navegador."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Aprén"
-" com</strong></a> pots canviar a o des de la Cerca CC es de la teva barra de"
-" cerques del Firefox."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Apreneu com</strong></a> podeu canviar a o des del Cercador CC en la barra de cerques del Firefox."
 
 #: index.php:149
 msgid "Help Translate"
