@@ -1,18 +1,21 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# apuasi, 2011
+# Herkko Hietanen <herkko@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-04-17 21:17+0000\n"
-"Last-Translator: apuasi <kaannokset.hellberg@gmail.com>\n"
-"Language-Team: Finnish (http://www.transifex.net/projects/p/CC/team/fi/)\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
+"Last-Translator: apuasi\n"
+"Language-Team: Finnish (http://www.transifex.com/projects/p/CC/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fi\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -74,33 +77,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Huomaa, että search.creativecommons.org <em>ei ole hakukone,</em> vaan "
-"tarjoaa kätevästi pääsyä muihin hakupalveluihin. CC ei hallinnoi "
-"hakutuloksia. <em>Älä oleta, että tulokset ovat CC-lisensoituja.</em> "
-"Varmista, että työ on CC-lisenssin alainen seuraamalla linkkiä. Koska CC "
-"lisensoituja teoksia ei ole rekisteröity, CC:llä ei ole tapaa selvittää, "
-"mitkä teokset on tai ei ole lisensoitu CC-lisensseillä. Jos olet epävarma "
-"ota yhteys suoraan tekijänoikeuden haltijaan, tai yrittää ottaa yhteyttä "
-"sivustoon, josta löysit teoksen."
+msgstr "Huomaa, että search.creativecommons.org <em>ei ole hakukone,</em> vaan tarjoaa kätevästi pääsyä muihin hakupalveluihin. CC ei hallinnoi hakutuloksia. <em>Älä oleta, että tulokset ovat CC-lisensoituja.</em> Varmista, että työ on CC-lisenssin alainen seuraamalla linkkiä. Koska CC lisensoituja teoksia ei ole rekisteröity, CC:llä ei ole tapaa selvittää, mitkä teokset on tai ei ole lisensoitu CC-lisensseillä. Jos olet epävarma ota yhteys suoraan tekijänoikeuden haltijaan, tai yrittää ottaa yhteyttä sivustoon, josta löysit teoksen."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<strong><a href=\"#\" id=\"addOpenSearch\">Lisää CC-haku</a></strong> "
-"selaimeesi."
+msgstr "<strong><a href=\"#\" id=\"addOpenSearch\">Lisää CC-haku</a></strong> selaimeesi."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<strong><a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\">Opi "
-"kuinka</a></strong> saat CC-haun Firefoxin hakupalkkiin."
+msgstr "<strong><a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\">Opi kuinka</a></strong> saat CC-haun Firefoxin hakupalkkiin."
 
 #: index.php:149
 msgid "Help Translate"

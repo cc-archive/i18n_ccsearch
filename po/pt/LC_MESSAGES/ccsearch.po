@@ -1,14 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Hamilton Abreu <rui.hamilton.abreu@gmail.com>, 2011.
-#   <teresaraposonobre@gmail.com>, 2012.
+# Hamilton Abreu <rui.hamilton.abreu@gmail.com>, 2011
+# ten <teresaraposonobre@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-09-24 18:41+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: ten <teresaraposonobre@gmail.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/CC/language/pt/)\n"
 "MIME-Version: 1.0\n"

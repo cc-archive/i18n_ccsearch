@@ -1,23 +1,24 @@
 # Copyright (C) 2011 Creative Commons
 # 
+# Translators:
+# tomislavmedak <tom@mi2.hr>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-03-22 15:15+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: tomislavmedak <tom@mi2.hr>\n"
-"Language-Team: Croatian (http://www.transifex.net/projects/p/CC/team/hr/)\n"
+"Language-Team: Croatian (http://www.transifex.com/projects/p/CC/language/hr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: hr\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr ""
-"Pronađite sadržaje koje možete slobodno dijeliti, koristiti i remiksirati"
+msgstr "Pronađite sadržaje koje možete slobodno dijeliti, koristiti i remiksirati"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -75,35 +76,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Upozoravamo da search.creativecommons.org nije <em>tražilica</em>, već se "
-"radi o sučelju za pristup pretraživanju koje nude druge organizacije. CC "
-"nema kontrolu nad povratnim rezulatima. <em> Ne računajte da su rezultati "
-"prikazani na ovom pretraživačkom portalu nužno pod CC licencom</em>. Uvijek "
-"provjerite otvaranjem linka radi li se doista o djelu pod CC licencom. "
-"Budući da prilikom primjene CC licence ne registriramo djela, CC nema načina"
-" da ustanovi koji sadržaji jesu, ako koji nisu dostupni pod uvjetima CC "
-"licence. Ako niste sigurni, onda kontaktirajte izravno nositelja prava ili "
-"pokušajte kontaktirati internetsku stranicu na kojoj ste pronašli sadržaj."
+msgstr "Upozoravamo da search.creativecommons.org nije <em>tražilica</em>, već se radi o sučelju za pristup pretraživanju koje nude druge organizacije. CC nema kontrolu nad povratnim rezulatima. <em> Ne računajte da su rezultati prikazani na ovom pretraživačkom portalu nužno pod CC licencom</em>. Uvijek provjerite otvaranjem linka radi li se doista o djelu pod CC licencom. Budući da prilikom primjene CC licence ne registriramo djela, CC nema načina da ustanovi koji sadržaji jesu, ako koji nisu dostupni pod uvjetima CC licence. Ako niste sigurni, onda kontaktirajte izravno nositelja prava ili pokušajte kontaktirati internetsku stranicu na kojoj ste pronašli sadržaj."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Dodajte CC "
-"pretraživanje</strong></a> u internet preglednik."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Dodajte CC pretraživanje</strong></a> u internet preglednik."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Saznajte"
-" kako</strong></a> postaviti ili maknuti CC pretraživanje u pretraživačkoj "
-"traci Firefox preglednika."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Saznajte kako</strong></a> postaviti ili maknuti CC pretraživanje u pretraživačkoj traci Firefox preglednika."
 
 #: index.php:149
 msgid "Help Translate"

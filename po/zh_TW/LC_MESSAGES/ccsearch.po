@@ -1,20 +1,21 @@
 # Copyright (C) 2011 Creative Commons
 # 
-#   <yhchang@gate.sinica.edu.tw>, 2011.
-# Polley Wong <polley@gmail.com>, 2011.
+# Translators:
+# Polley Wong <polley@gmail.com>, 2011
+# yihongchang <yhchang@gate.sinica.edu.tw>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-09-02 08:33+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: yihongchang <yhchang@gate.sinica.edu.tw>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.net/projects/p/CC/team/zh_TW/)\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/CC/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_TW\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -76,9 +77,7 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"請注意，search.creativecommons.org "
-"<em>不是搜尋引擎</em>，而僅提供一便於使用的介面以連結至其他獨立單位的內容搜尋服務。CC對搜尋的結果沒有控制權，<em>也無法確保搜尋結果確實採用創用CC授權</em>，你必須連結至各著作的網頁，以確認該著作是否確實以創用CC授權釋出。由於採用創用CC受權無需進行註冊動作，CC因此無法確保該著作是否採用創用CC授權條款，如果你對該著作的著作權狀態有疑慮，你應該直接連絡著作權所有人，或聯絡提供該著作的網站。"
+msgstr "請注意，search.creativecommons.org <em>不是搜尋引擎</em>，而僅提供一便於使用的介面以連結至其他獨立單位的內容搜尋服務。CC對搜尋的結果沒有控制權，<em>也無法確保搜尋結果確實採用創用CC授權</em>，你必須連結至各著作的網頁，以確認該著作是否確實以創用CC授權釋出。由於採用創用CC受權無需進行註冊動作，CC因此無法確保該著作是否採用創用CC授權條款，如果你對該著作的著作權狀態有疑慮，你應該直接連絡著作權所有人，或聯絡提供該著作的網站。"
 
 #: index.php:120
 msgid ""
@@ -91,9 +90,7 @@ msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<strong><a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\">了解如何</a></strong>在您的Firefox瀏覽器搜尋列中切換創用CC搜尋。"
+msgstr "<strong><a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\">了解如何</a></strong>在您的Firefox瀏覽器搜尋列中切換創用CC搜尋。"
 
 #: index.php:149
 msgid "Help Translate"
@@ -122,5 +119,3 @@ msgstr "使用條款"
 #: index.php:161
 msgid "Developers"
 msgstr "程式發展人員"
-
-

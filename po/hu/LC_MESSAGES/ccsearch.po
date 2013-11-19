@@ -1,15 +1,15 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-#  <atomtengeralattjaro@gmail.com>, 2013.
-# Nathan Kinkade <nkinkade@creativecommons.org>, 2011.
-#   <nbkreg@gmail.com>, 2011.
+# atommalac <atomtengeralattjaro@gmail.com>, 2013
+# Nathan Kinkade <nkinkade@creativecommons.org>, 2011
+# NB_ <nbkreg@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-03-13 16:59+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: atommalac <atomtengeralattjaro@gmail.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/projects/p/CC/language/hu/)\n"
 "MIME-Version: 1.0\n"

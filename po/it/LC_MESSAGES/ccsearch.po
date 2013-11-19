@@ -1,22 +1,22 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-#   <ironbishop@fsfe.org>, 2011.
-#   <lukefiltroman@gmail.com>, 2011.
-# Nathan Kinkade <nkinkade@creativecommons.org>, 2011.
+#   <ironbishop@fsfe.org>, 2011
+# Luca Manlio De Lisi <lukefiltroman@gmail.com>, 2011
+# Nathan Kinkade <nkinkade@creativecommons.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-11-09 03:11+0000\n"
-"Last-Translator: FiltroMan <lukefiltroman@gmail.com>\n"
-"Language-Team: Italian (http://www.transifex.net/projects/p/CC/team/it/)\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
+"Last-Translator: Luca Manlio De Lisi <lukefiltroman@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/CC/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -36,9 +36,7 @@ msgstr "usare per <em>scopi commerciali</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr ""
-"<em>modificare</em>, <em>adattare</em> o <em>usare come base di "
-"partenza</em>"
+msgstr "<em>modificare</em>, <em>adattare</em> o <em>usare come base di partenza</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -80,37 +78,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Nota bene: search.creativecommons.org <em>non è un motore di ricerca</em>, "
-"ma piuttosto offre un accesso agevole a servizi di ricerca forniti da altre "
-"organizzazioni indipendenti. CC non ha alcun controllo sui risultati che "
-"vengono forniti. <em>Non dare per scontato che i risultati visualizzati in "
-"questo portale siano licenziati con Creative Commons</em>. Verifica sempre "
-"che l'opera sia realmente licenziata con una licenza CC seguendo il "
-"collegamento. Poiché non vi è alcuna registrazione per l'utilizzo delle "
-"licenze CC, Creative Commons non ha modo di sapere quando un'opera sia o non"
-" sia licenziata con CC. Se hai dubbi in merito contatta direttamente il "
-"detentore dei diritti o cerca di contattare il sito in cui hai trovato il "
-"contenuto."
+msgstr "Nota bene: search.creativecommons.org <em>non è un motore di ricerca</em>, ma piuttosto offre un accesso agevole a servizi di ricerca forniti da altre organizzazioni indipendenti. CC non ha alcun controllo sui risultati che vengono forniti. <em>Non dare per scontato che i risultati visualizzati in questo portale siano licenziati con Creative Commons</em>. Verifica sempre che l'opera sia realmente licenziata con una licenza CC seguendo il collegamento. Poiché non vi è alcuna registrazione per l'utilizzo delle licenze CC, Creative Commons non ha modo di sapere quando un'opera sia o non sia licenziata con CC. Se hai dubbi in merito contatta direttamente il detentore dei diritti o cerca di contattare il sito in cui hai trovato il contenuto."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Aggiungi la ricerca "
-"CC</strong></a> al tuo browser."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Aggiungi la ricerca CC</strong></a> al tuo browser."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Scopri"
-" come</strong></a> cambiare motore di ricerca nella barra di ricerca di "
-"Firefox."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Scopri come</strong></a> cambiare motore di ricerca nella barra di ricerca di Firefox."
 
 #: index.php:149
 msgid "Help Translate"
@@ -139,5 +120,3 @@ msgstr "Termini di Utilizzo"
 #: index.php:161
 msgid "Developers"
 msgstr "Sviluppatori"
-
-

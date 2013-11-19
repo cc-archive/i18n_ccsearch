@@ -1,14 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Besnik Bleta <besnik@programeshqip.org>, 2013.
-# Gent Thaçi <gentthaqi@gmail.com>, 2011.
+# Besnik <besnik@programeshqip.org>, 2013
+# Gent Thaçi <gentthaqi@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-02-05 19:19+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: Besnik <besnik@programeshqip.org>\n"
 "Language-Team: Albanian (http://www.transifex.com/projects/p/CC/language/sq/)\n"
 "MIME-Version: 1.0\n"

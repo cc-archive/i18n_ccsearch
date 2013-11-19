@@ -1,13 +1,13 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Tomoaki Watanabe <tomoaki@creativecommons.jp>, 2013.
+# Tomoaki Watanabe <tomoaki@creativecommons.jp>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-01-18 10:45+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: Tomoaki Watanabe <tomoaki@creativecommons.jp>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/CC/language/ja/)\n"
 "MIME-Version: 1.0\n"

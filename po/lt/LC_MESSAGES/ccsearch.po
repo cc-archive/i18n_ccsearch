@@ -1,14 +1,14 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Jonas Kubilius <qbilius@gmail.com>, 2012.
-# Nathan Kinkade <nkinkade@creativecommons.org>, 2011.
+# Jonas Kubilius <qbilius@gmail.com>, 2012
+# Nathan Kinkade <nkinkade@creativecommons.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-09-20 13:25+0000\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
 "Last-Translator: Jonas Kubilius <qbilius@gmail.com>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/projects/p/CC/language/lt/)\n"
 "MIME-Version: 1.0\n"

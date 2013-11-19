@@ -1,20 +1,20 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Gisle Hannemyr <gisle@hannemyr.no>, 2011.
+# Gisle Hannemyr <gisle@hannemyr.no>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2011-09-30 05:16+0000\n"
-"Last-Translator: gislehannemyr <gisle@hannemyr.no>\n"
-"Language-Team: Norwegian (http://www.transifex.net/projects/p/CC/team/no/)\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
+"Last-Translator: Gisle Hannemyr <gisle@hannemyr.no>\n"
+"Language-Team: Norwegian (http://www.transifex.com/projects/p/CC/language/no/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: no\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
@@ -34,8 +34,7 @@ msgstr "bruke for <em>kommersielle formål</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr ""
-"<em>modifisere</em>, <em>tilpasse</em>, eller <em>bygge videre på</em>"
+msgstr "<em>modifisere</em>, <em>tilpasse</em>, eller <em>bygge videre på</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -77,41 +76,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr ""
-"Websiden <b>search.creativecommons.org</b> er <em>ikke</em> et arkiv eller "
-"en søkemotor.  Alt den gjør er å gi en oversikt over ulike søketjenester som"
-" tilbys av ulike uavhengige organisasjoner.  Creative Commons har <em>ingen "
-"kontroll</em> over hva disse søketjenestene gjør.  <strong>Du må ikke "
-"automatisk anta at resultatene som de ulike søketjenestene returnerer er "
-"tilgjengelig under en Creative Commons-lisens.</strong>  Før du bruker slikt"
-" materiale bør du selv verifisere at verket det er snakk om faktisk er "
-"tilgjengelig under en Creative Commons-lisens.  Vær også oppmerksom på at "
-"organisasjonen Creative Commons ikke har noe register over materiale som er "
-"utstyrt med Creative Commons-lisens, og kan ikke gi deg svar på hva som er, "
-"og hva som ikke er, tilgjengelig under en slik lisens.  Dersom du er i tvil "
-"om den opphavsrettslige statusen til materiale du har funnet gjennom søk, så"
-" bør du selv kontakte rettighetshaver for å undersøke om materialet faktisk "
-"er underlagt Creative Commons-lisens, eller be om bekreftelse fra nettstedet"
-" der materialet ligger om at materialet er korrekt merket med Creative "
-"Commons-lisens."
+msgstr "Websiden <b>search.creativecommons.org</b> er <em>ikke</em> et arkiv eller en søkemotor.  Alt den gjør er å gi en oversikt over ulike søketjenester som tilbys av ulike uavhengige organisasjoner.  Creative Commons har <em>ingen kontroll</em> over hva disse søketjenestene gjør.  <strong>Du må ikke automatisk anta at resultatene som de ulike søketjenestene returnerer er tilgjengelig under en Creative Commons-lisens.</strong>  Før du bruker slikt materiale bør du selv verifisere at verket det er snakk om faktisk er tilgjengelig under en Creative Commons-lisens.  Vær også oppmerksom på at organisasjonen Creative Commons ikke har noe register over materiale som er utstyrt med Creative Commons-lisens, og kan ikke gi deg svar på hva som er, og hva som ikke er, tilgjengelig under en slik lisens.  Dersom du er i tvil om den opphavsrettslige statusen til materiale du har funnet gjennom søk, så bør du selv kontakte rettighetshaver for å undersøke om materialet faktisk er underlagt Creative Commons-lisens, eller be om bekreftelse fra nettstedet der materialet ligger om at materialet er korrekt merket med Creative Commons-lisens."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr ""
-"<a href=\"#\" id=\"addOpenSearch\"><strong>Legg til CC Søk</strong></a> i "
-"din nettleser."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Legg til CC Søk</strong></a> i din nettleser."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr ""
-"<a "
-"href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Lær "
-"hvordan</strong> </a> du bytter til eller fra CC Søk i Firefox search bar."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Lær hvordan</strong> </a> du bytter til eller fra CC Søk i Firefox search bar."
 
 #: index.php:149
 msgid "Help Translate"
@@ -140,5 +118,3 @@ msgstr "Vilkår for bruk"
 #: index.php:161
 msgid "Developers"
 msgstr "Utviklere"
-
-

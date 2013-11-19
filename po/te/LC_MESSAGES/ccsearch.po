@@ -1,17 +1,17 @@
 # Copyright (C) 2011 Creative Commons
 # 
 # Translators:
-# Veeven  <veeven@gmail.com>, 2011.
-# ప్రవీణ్ ఇళ్ళ <mail2ipn@gmail.com>, 2011.
-# ప్రవీణ్ యిళ్ళ <mail2ipn@gmail.com>, 2011.
-# వీవెన్  <veeven@gmail.com>, 2012.
+# వీవెన్ వీరపనేని <veeven@gmail.com>, 2011
+# ప్రవీణ్ ఇళ్ళ <mail2ipn@gmail.com>, 2011
+# ప్రవీణ్ ఇళ్ళ <mail2ipn@gmail.com>, 2011
+# వీవెన్ వీరపనేని <veeven@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
-"Report-Msgid-Bugs-To: http://code.creativecommons.org/issues/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2012-09-11 14:57+0000\n"
-"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
+"PO-Revision-Date: 2013-11-19 12:41+0000\n"
+"Last-Translator: వీవెన్ వీరపనేని <veeven@gmail.com>\n"
 "Language-Team: Telugu (http://www.transifex.com/projects/p/CC/language/te/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
