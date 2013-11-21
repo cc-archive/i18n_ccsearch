@@ -2,13 +2,14 @@
 # 
 # Translators:
 # Hamilton Abreu <rui.hamilton.abreu@gmail.com>, 2011
+# ten <teresaraposonobre@gmail.com>, 2013
 # ten <teresaraposonobre@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-11-21 18:49+0000\n"
+"PO-Revision-Date: 2013-11-21 19:11+0000\n"
 "Last-Translator: ten <teresaraposonobre@gmail.com>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/CC/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: index.php:29
 msgid "Find content you can share, use and remix"
-msgstr "Encontre conteúdos que pode partilhar, usar e remisturar"
+msgstr "Encontre conteúdos que possa compartilhar, usar e remisturar"
 
 #: index.php:32
 msgid "Enter your search query"
@@ -27,7 +28,7 @@ msgstr "Introduza o termo de pesquisa"
 
 #: index.php:39
 msgid "I want something that I can..."
-msgstr "Quero algo que posso ..."
+msgstr "Quero algo que possa ..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
@@ -35,7 +36,7 @@ msgstr "usar para <em>fins comerciais</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
-msgstr "<em>modificar</em>, <em>adaptar</em>, ou <em>usar noutras obras</em>"
+msgstr "<em>modificar</em>, <em>adaptar</em>, ou <em>criar a partir de</em>"
 
 #: index.php:48
 msgid "Search using"
@@ -77,7 +78,7 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr "Note, por favor, que a search.creativecommons.org <em>não é um motor de pesquisa</em>. Pelo contrário, oferece uma forma conveniente de acesso a serviços de pesquisa disponibilizados por outras entidades independentes. A CC não tem qualquer controle sobre os resultados. <em>Não assuma que os resultados apresentados pela pesquisa neste portal foram licenciados com uma licença CC</em>. Deve verificar sempre que o trabalho está efectivamente licenciado com uma licença CC, seguindo o respectivo link. Dado que para utilizar uma licença CC não é necessário qualquer registo, a CC não dispõe de nenhuma forma de determinar o que foi, ou não foi, disponibilizado nos termos de uma licença CC. Se tiver qualquer dúvida a este respeito deve contactar directamente o titular dos direitos de autor, ou tentar contactar o site onde encontrou o conteúdo."
+msgstr "Note, por favor, que o search.creativecommons.org <em>não é um motor de pesquisa</em>, mas, pelo contrário, oferece uma forma conveniente de acesso a serviços de pesquisa disponibilizados por outras entidades independentes. A CC não tem qualquer controlo sobre os resultados da pesquisa. <em>Não assuma que os resultados apresentados neste portal de pesquisa foram licenciados com uma licença CC</em>. Deve verificar sempre que o trabalho está efetivamente licenciado com uma licença CC, seguindo o respetivo link. Uma vez que, para utilizar uma licença CC, não é necessário qualquer registo, a CC não dispõe de nenhuma forma de determinar o que foi, ou não foi, disponibilizado ao abrigo de uma licença CC. Se tiver qualquer dúvida a este respeito deve contactar directamente o titular do direito de autor e/ou dos direitos conexos, ou tentar contactar o sítio Web onde encontrou o conteúdo."
 
 #: index.php:120
 msgid ""
@@ -102,11 +103,11 @@ msgstr "Contacto"
 
 #: index.php:153
 msgid "Donate to CC"
-msgstr "Fazer um donativo"
+msgstr "Fazer um donativo à CC"
 
 #: index.php:155
 msgid "Policies"
-msgstr "Normas"
+msgstr "Políticas"
 
 #: index.php:157
 msgid "Privacy"
@@ -114,7 +115,7 @@ msgstr "Privacidade"
 
 #: index.php:159
 msgid "Terms of Use"
-msgstr "Condições de Uso"
+msgstr "Termos de Utilização"
 
 #: index.php:161
 msgid "Developers"
