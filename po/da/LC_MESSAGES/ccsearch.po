@@ -2,13 +2,14 @@
 # 
 # Translators:
 # CC Cron Bot <webmaster@creativecommons.org>, 2011
+# Peter Leth <peter@pluk.dk>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Creative Commons\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 20:47+0000\n"
-"PO-Revision-Date: 2013-11-20 09:49+0000\n"
-"Last-Translator: CC Cron Bot <webmaster@creativecommons.org>\n"
+"PO-Revision-Date: 2013-11-25 19:47+0000\n"
+"Last-Translator: Peter Leth <peter@pluk.dk>\n"
 "Language-Team: Danish (http://www.transifex.com/projects/p/CC/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgstr "Jeg vil have noget, jeg kan ..."
 
 #: index.php:41
 msgid "use for <em>commercial purposes</em>"
-msgstr "anvendelse til <em>kommercielle formål</em>"
+msgstr "anvend til <em>kommercielle formål</em>"
 
 #: index.php:43
 msgid "<em>modify</em>, <em>adapt</em>, or <em>build upon</em>"
@@ -62,7 +63,7 @@ msgstr "Medier"
 
 #: index.php:111
 msgid "What is this?"
-msgstr "Hvad er det?"
+msgstr "Hvad er dette?"
 
 #: index.php:113
 msgid ""
@@ -76,20 +77,20 @@ msgid ""
 "hasn't been placed under the terms of a CC license. If you are in doubt you "
 "should contact the copyright holder directly, or try to contact the site "
 "where you found the content."
-msgstr "Bemærk venligst, at search.creativecommons.org <em>ikke er en søgemaskine,</em> men snarere tilbyder nem adgang til at søge ydelser fra andre uafhængige organisationer. CC har ingen kontrol over de resultater, der returneres. <em>Antag derfor ikke, at de resultater, der vises i denne søgeportal er under en CC-licens.</em> Du bør altid kontrollere, at arbejdet faktisk under en CC-licens ved at følge linket. Da der ikke er nogen registrering af CC-licenseret indhold, kan CC på ingen måde at afgøre, hvad der er og ikke er blevet udgivet med en CC-licens. Hvis du er i tvivl, bør du kontakte indehaveren af ophavsretten direkte, eller prøv at kontakte det sted, hvor du fandt indholdet."
+msgstr "Bemærk venligst, at search.creativecommons.org <em>ikke er en søgemaskine,</em> men snarere tilbyder nem adgang til at søge ydelser fra andre uafhængige organisationer. CC har ingen kontrol over de resultater, der returneres. <em>Antag derfor ikke, at de resultater, der vises i denne søgeportal er under en CC-licens.</em> Du bør altid kontrollere, at arbejdet faktisk er under en CC-licens ved at følge linket. Da der ikke er nogen registrering af CC-licenseret indhold, kan CC på ingen måde at afgøre, hvad der er og ikke er blevet udgivet med en CC-licens. Hvis du er i tvivl, bør du kontakte indehaveren af ophavsretten direkte, eller prøv at kontakte det sted, hvor du fandt indholdet."
 
 #: index.php:120
 msgid ""
 "<a href=\"#\" id=\"addOpenSearch\"><strong>Add CC Search</strong></a> to "
 "your browser."
-msgstr "<strong><a href=\"#\" id=\"addOpenSearch\">Tilføj CC Søg</a></strong> til din browser."
+msgstr "<a href=\"#\" id=\"addOpenSearch\"><strong>Tilføj CC Søg</a></strong> til din browser."
 
 #: index.php:121
 msgid ""
 "<a "
 "href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn"
 " how</strong></a> to switch to or from CC Search in your Firefox search bar."
-msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Learn how</strong></a> to switch to or from CC Search in your Firefox search bar."
+msgstr "<a href=\"http://wiki.creativecommons.org/Firefox_and_CC_Search\"><strong>Lær hvordan</strong></a> man skifter til eller fra CC Search i Firefox søgefeltet."
 
 #: index.php:149
 msgid "Help Translate"
@@ -101,7 +102,7 @@ msgstr "Kontakt"
 
 #: index.php:153
 msgid "Donate to CC"
-msgstr "Doner til CC"
+msgstr "Donér til CC"
 
 #: index.php:155
 msgid "Policies"
